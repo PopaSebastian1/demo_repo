@@ -1,1 +1,2 @@
 First branch text
+text from second_branch
